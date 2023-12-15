@@ -2,8 +2,20 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+
 .products-container{
     margin-top: 100px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+
+.btn-proceed{
+    width: 90%;
+    border-radius: 8px;
+    background: #F90;
+    color: white;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
