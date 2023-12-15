@@ -6,3 +6,12 @@
     position: sticky;
     top: 10px;
 }
+
+.btn-clear-cart{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF3030;
+    color: white;
+}
